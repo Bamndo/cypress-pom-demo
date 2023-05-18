@@ -4,6 +4,7 @@
 In this project, I aim to develop a robust and maintainable test automation framework using Cypress, implementing the best practices of the Page Object Model (POM) design pattern. Additionally, I will integrate Allure report and Axe for comprehensive accessibility analysis.
 
 
+Automated features:
 * Login (this application has captcha, so it could fail. In a testing environment they should be disabled to focus the testing on the functionality of the software.)
 * Accessibility analysis of home, login and signup pages.
 
@@ -16,7 +17,7 @@ _What things do you need to run this demo_
 * Node
 * Java 8+
 * IDE (visual studio or any)
-* Browser like Google Chrome or Firefox.
+* Browser Google Chrome.
 
 ## Installation 🔧
 
