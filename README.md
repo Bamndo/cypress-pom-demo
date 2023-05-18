@@ -20,7 +20,8 @@ _What things do you need to run this demo_
 
 ## Installation 🔧
 
-Clone this repository
+Clone this repository.
+
 I leave here the file "cypress.env.json" as an example, in a real project you should not upload env files.
 
 ```
