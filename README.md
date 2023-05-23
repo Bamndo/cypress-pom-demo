@@ -47,7 +47,7 @@ To run tests, run the following command
 
 ---
 
-## Screenshots
+## Screenshots and Demo
 
 ![Reporting](https://github.com/Bamndo/cypress-pom-demo/blob/main/assets/allure-2.jpg)
 
@@ -55,6 +55,7 @@ To run tests, run the following command
 
 ![Accessibility analysis](https://github.com/Bamndo/cypress-pom-demo/blob/main/assets/AXE.jpg)
 
+[DEMO](https://vimeo.com/829464503)
 
 ---
 
